@@ -1,10 +1,10 @@
 {
   "versionCode": 6,
-  "versionName": "1.4",
+  "versionName": "1.5",
   "force": false,
   "title": "\u6709\u65b0\u7248\u672c\u5566",
-  "message": "\u542f\u52a8\u65f6\u81ea\u52a8\u68c0\u67e5\u66f4\u65b0\uff1b\u56fd\u5185\u591a\u6761\u7ebf\u8def\u515c\u5e95\uff1b\u68c0\u67e5\u66f4\u65b0\u53ef\u4ee5\u91cd\u590d\u67e5\u770b\u7ed3\u679c",
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/1053PLMiu/jtzs-release@main/jintianzhusha-1.4.apk",
-  "sha256": "062512b2acf1045d78c975fb92579416550e69eb57dc19332400f58b7d13dd9e",
+  "message": "\u65b0\u7528\u6237\u4e0d\u518d\u5e26\u6f14\u793a\u8bb0\u5f55\uff1b\u624b\u52a8\u68c0\u67e5\u4f1a\u663e\u793a\u7ebf\u4e0a\u7248\u672c\u53f7",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/1053PLMiu/jtzs-release@main/jintianzhusha-1.5.apk",
+  "sha256": "b9d2380cd525fafe94d7b8b131f10eed91612958e48ffa0d5b6819bfaa0fe8ae",
   "publishedAt": "2026-11-26"
 }
