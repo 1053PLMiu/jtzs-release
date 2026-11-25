@@ -1,0 +1,10 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0",
+  "force": false,
+  "title": "有新版本啦",
+  "message": "可以点我的头像换照片，新增意见反馈",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/1053PLMiu/jtzs-release@main/jintianzhusha-1.0.apk",
+  "sha256": "742219f5b3d9b4c41c4b87cdfcde4c8ebc46396d9da6b995e2c8258b08754adb",
+  "publishedAt": "2026-11-26"
+}
