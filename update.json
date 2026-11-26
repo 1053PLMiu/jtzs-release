@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.9-test",
+  "versionCode": 10,
+  "versionName": "1.9",
   "force": false,
   "title": "有新版本啦",
   "message": "修复：更新时可能下到旧安装包（更新源优先读 GitHub）",
