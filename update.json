@@ -4,7 +4,7 @@
   "force": false,
   "title": "有新版本啦",
   "message": "修复：更新时可能下到旧安装包（更新源优先读 GitHub）",
-  "downloadUrl": "https://raw.githubusercontent.com/1053PLMiu/jtzs-release/main/jintianzhusha-1.9-code11.apk",
+  "downloadUrl": "https://raw.githubusercontent.com/1053PLMiu/jtzs-release/main/jintianzhusha-1.9-code10.apk",
   "sha256": "b2fadf17cadd89f25df2a76dbc66828623f9b78b7ea7124da8cb1c0237dbffc1",
   "publishedAt": "2026-11-27"
 }
